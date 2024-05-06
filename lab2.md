@@ -24,5 +24,15 @@ Try to do this in as few lines as possible.
 </div>
 Exercise_6 - write a shell script that prompts the user for a name of a file or directory and reports if it is a regular file, a directory, or another type of file. Also perform an ls command against the file or directory with the long listing option.
 <div align="centre">
+<img width="497" alt="Screenshot 2024-05-06 at 11 03 02 PM" src="https://github.com/Tanishsnghhh/Tanish_32_os_lab1_2023_2027/assets/142775471/f095c445-7190-4418-be15-2c25dec11911">
+</div>
+ 
+Exercise_7 - Modify the previous script to that it accepts the file or directory name as an argument instead of prompting the user to enter it
+<div align="centre">
+<img width="458" alt="Screenshot 2024-05-06 at 11 11 23 PM" src="https://github.com/Tanishsnghhh/Tanish_32_os_lab1_2023_2027/assets/142775471/7c736e95-8a1f-43bb-9ce2-1debda7f4be0">
+</div>
 
-
+Exercise_8 - Modify the previous script to accept an unlimited number of files and directories as arguments.
+<div align ="centre">
+<img width="524" alt="Screenshot 2024-05-06 at 11 18 24 PM" src="https://github.com/Tanishsnghhh/Tanish_32_os_lab1_2023_2027/assets/142775471/86642330-092c-4955-9778-fdd2ccdee04d">
+</div>
